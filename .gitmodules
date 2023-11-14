@@ -5,6 +5,9 @@
 [submodule "SCDB"]
 	path = SCDB
 	url = https://github.com/ssi-dk/scdb
+[submodule "aeddo"]
+	path = aeddo
+	url = https://github.com/ssi-dk/aeddo
 [submodule "aedseo"]
 	path = aedseo
 	url = https://github.com/ssi-dk/aedseo
