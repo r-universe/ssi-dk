@@ -11,3 +11,6 @@
 [submodule "aedseo"]
 	path = aedseo
 	url = https://github.com/ssi-dk/aedseo
+[submodule "diseasystore"]
+	path = diseasystore
+	url = https://github.com/ssi-dk/diseasystore
