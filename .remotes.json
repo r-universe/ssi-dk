@@ -1,0 +1,14 @@
+[
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter",
+    "via": ["diseasystore", "simulist"],
+    "from": "diseasystore"
+  },
+  {
+    "package": "simulist",
+    "url": "https://github.com/epiverse-trace/simulist",
+    "via": ["diseasystore"],
+    "from": "diseasystore"
+  }
+]
