@@ -6,6 +6,12 @@
     "from": "diseasystore"
   },
   {
+    "package": "epiparameterDB",
+    "url": "https://github.com/epiverse-trace/epiparameterDB",
+    "via": ["diseasystore", "simulist", "epiparameter"],
+    "from": "diseasystore"
+  },
+  {
     "package": "simulist",
     "url": "https://github.com/epiverse-trace/simulist",
     "via": ["diseasystore"],

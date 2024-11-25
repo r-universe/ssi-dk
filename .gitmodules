@@ -18,6 +18,10 @@
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
 	registered = false
+[submodule "epiparameterDB"]
+	path = epiparameterDB
+	url = https://github.com/epiverse-trace/epiparameterDB
+	registered = false
 [submodule "simulist"]
 	path = simulist
 	url = https://github.com/epiverse-trace/simulist
