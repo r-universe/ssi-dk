@@ -14,15 +14,3 @@
 [submodule "diseasystore"]
 	path = diseasystore
 	url = https://github.com/ssi-dk/diseasystore
-[submodule "epiparameter"]
-	path = epiparameter
-	url = https://github.com/epiverse-trace/epiparameter
-	registered = false
-[submodule "epiparameterDB"]
-	path = epiparameterDB
-	url = https://github.com/epiverse-trace/epiparameterDB
-	registered = false
-[submodule "simulist"]
-	path = simulist
-	url = https://github.com/epiverse-trace/simulist
-	registered = false
