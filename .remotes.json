@@ -1,9 +1,0 @@
-[
-  {
-    "package": "SCDB",
-    "url": "https://github.com/ssi-dk/SCDB",
-    "via": ["diseasystore"],
-    "branch": "rc-v0.5.1",
-    "from": "diseasystore"
-  }
-]
