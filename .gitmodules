@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "EpiForsk"]
+	path = EpiForsk
+	url = https://github.com/ssi-dk/epiforsk
 [submodule "SCDB"]
 	path = SCDB
 	url = https://github.com/ssi-dk/scdb
